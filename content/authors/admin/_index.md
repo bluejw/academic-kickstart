@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wei Jin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate of Applied Mathematcis and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Johns Hopkins University
+  url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+<!-- bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 # Interests to show in About widget
 interests:
