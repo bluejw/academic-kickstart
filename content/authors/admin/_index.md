@@ -18,22 +18,25 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Nonparametrics
+- Electronic Health Records
+- Precision Medicine in HIV
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Applied Mathematics and Statistics
+    institution: Johns Hopkins University
+    year: 2018 - Present
+  - course: M.S.E in Computer Science
+    institution: Johns Hopkins University
+    year: 2019 - Present
+  - course: M.S.E in Applied Mathematics and Statistics
+    institution: Johns Hopkins University
+    year: 2016 - 2018
+  - course: B.S. in Mathematics and Applied Mathematics
+    institution: Sichuan University
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
