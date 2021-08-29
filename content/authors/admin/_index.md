@@ -6,7 +6,7 @@ title: Wei Jin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate of Applied Mathematcis and Statistics
+role: Ph.D. Candidate of Applied Mathematics and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,8 +49,10 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+# - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+# icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=WbpSngEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -62,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
