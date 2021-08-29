@@ -25,16 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Applied Mathematics and Statistics
+  - course: Ph.D. in Applied Math and Stats
     institution: Johns Hopkins University
     year: 2018 - Present
   - course: M.S.E in Computer Science
     institution: Johns Hopkins University
     year: 2019 - Present
-  - course: M.S.E in Applied Mathematics and Statistics
+  - course: M.S.E in Applied Math and Stats
     institution: Johns Hopkins University
     year: 2016 - 2018
-  - course: B.S. in Mathematics and Applied Mathematics
+  - course: B.S. in Math and Applied Math
     institution: Sichuan University
     year: 2012 - 2016
 
