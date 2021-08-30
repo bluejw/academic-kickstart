@@ -80,14 +80,14 @@ highlight_languages:
 math: false
 diagram: false
 privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
+# edit_page:
+#   repo_url: ''
+#   content_dir: ''
+#   repo_branch: main
+#   editable:
+#     page: false
+#     post: false
+#     book: false
 show_related:
   book: true
   page: false
