@@ -76,4 +76,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/).
+I am a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/). Before I joined Johns Hopkins, I received my bachelor's degree in Mathematics and Applied Mathematics from [Sichuan University](https://en.scu.edu.cn/).
