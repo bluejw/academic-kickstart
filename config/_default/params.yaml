@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -88,13 +88,13 @@ privacy_pack: false
 #     page: false
 #     post: false
 #     book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+# show_related:
+#   book: true
+#   page: false
+#   post: true
+#   project: true
+#   publication: true
+#   event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
