@@ -45,8 +45,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
-  url: http://example.org
+- name: PDF
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13508
+- name: arXiv
+  url: https://arxiv.org/abs/2004.05487
+- name: Code
+  url: https://github.com/bluejw/BayesDrugComb
+- name: Shiny
+  url: https://wjin.shinyapps.io/Rshiny/
 
 # url_pdf: ''
 # url_code: ''
