@@ -16,11 +16,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-06-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Biometrics*
 # publication_short: In *ICW*
 
-abstract: Although combination antiretroviral therapy (ART) is highly effective in suppressing viral load for people with HIV (PWH), many ART agents may exacerbate central nervous system (CNS)-related adverse effects including depression. Therefore, understanding the effects of ART drugs on the CNS function, especially mental health, can help clinicians personalize medicine with less adverse effects for PWH and prevent them from discontinuing their ART to avoid undesirable health outcomes and increased likelihood of HIV transmission. The emergence of electronic health records offers researchers unprecedented access to HIV data including individuals' mental health records, drug prescriptions, and clinical information over time. However, modeling such data is very challenging due to high-dimensionality of the drug combination space, the individual heterogeneity, and sparseness of the observed drug combinations. We develop a Bayesian nonparametric approach to learn drug combination effect on mental health in PWH adjusting for socio-demographic, behavioral, and clinical factors. The proposed method is built upon the subset-tree kernel method that represents drug combinations in a way that synthesizes known regimen structure into a single mathematical representation. It also utilizes a distance-dependent Chinese restaurant process to cluster heterogeneous population while taking into account individuals' treatment histories. We evaluate the proposed approach through simulation studies, and apply the method to a dataset from the Women's Interagency HIV Study, yielding interpretable and promising results. Our method has clinical utility in guiding clinicians to prescribe more informed and effective personalized treatment based on individuals' treatment histories and clinical characteristics.
+abstract: Although combination antiretroviral therapy (ART) with three or more drugs is highly effective in suppressing viral load for people with HIV (human immunodeficiency virus), many ART agents may exacerbate mental health-related adverse effects including depression. Therefore, understanding the effects of combination ART on mental health can help clinicians personalize medicine with less adverse effects to avoid undesirable health outcomes. The emergence of electronic health records offers researchers' unprecedented access to HIV data including individuals' mental health records, drug prescriptions, and clinical information over time. However, modeling such data is challenging due to high dimensionality of the drug combination space, the individual heterogeneity, and sparseness of the observed drug combinations. To address these challenges, we develop a Bayesian nonparametric approach to learn drug combination effect on mental health in people with HIV adjusting for sociodemographic, behavioral, and clinical factors. The proposed method is built upon the subset-tree kernel that represents drug combinations in a way that synthesizes known regimen structure into a single mathematical representation. It also utilizes a distance-dependent Chinese restaurant process to cluster heterogeneous populations while considering individuals' treatment histories. We evaluate the proposed approach through simulation studies, and apply the method to a dataset from the Women's Interagency HIV Study, showing the clinical utility of our model in guiding clinicians to prescribe informed and effective personalized treatment based on individuals' treatment histories and clinical characteristics.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
