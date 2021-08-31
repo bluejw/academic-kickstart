@@ -6,14 +6,18 @@ title: "Bias and Noise in Proportion Estimation: A Mixture Psychophysical Model"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 # - Wei Jin
+- Camilo Gouet
 - admin
+- Daniel Q. Naiman
+- Marcela Pena
+- Justin Halberda
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-06-18T00:00:00Z"
+date: "2021-06-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +30,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Biometrics, in press. **Winner of the Joint Statistical Meetings (JSM) Student Paper Award, Mental Health Statistics Section**
+publication: Cognition, 213, 104805
 # publication_short: In *ICW*
 
-abstract: Although combination antiretroviral therapy (ART) with three or more drugs is highly effective in suppressing viral load for people with HIV (human immunodeficiency virus), many ART agents may exacerbate mental health-related adverse effects including depression. Therefore, understanding the effects of combination ART on mental health can help clinicians personalize medicine with less adverse effects to avoid undesirable health outcomes. The emergence of electronic health records offers researchers' unprecedented access to HIV data including individuals' mental health records, drug prescriptions, and clinical information over time. However, modeling such data is challenging due to high dimensionality of the drug combination space, the individual heterogeneity, and sparseness of the observed drug combinations. To address these challenges, we develop a Bayesian nonparametric approach to learn drug combination effect on mental health in people with HIV adjusting for sociodemographic, behavioral, and clinical factors. The proposed method is built upon the subset-tree kernel that represents drug combinations in a way that synthesizes known regimen structure into a single mathematical representation. It also utilizes a distance-dependent Chinese restaurant process to cluster heterogeneous populations while considering individuals' treatment histories. We evaluate the proposed approach through simulation studies, and apply the method to a dataset from the Women's Interagency HIV Study, showing the clinical utility of our model in guiding clinicians to prescribe informed and effective personalized treatment based on individuals' treatment histories and clinical characteristics.
+abstract: The importance of proportional reasoning has long been recognized by psychologists and educators, yet we still do not have a good understanding of how humans mentally represent proportions. In this paper we present a psychophysical model of proportion estimation, extending previous approaches. We assumed that proportion representations are formed by representing each magnitude of a proportion stimuli (the part and its complement) as Gaussian activations in the mind, which are then mentally combined in the form of a proportion. We next derived the internal representation of proportions, including bias and internal noise parameters -capturing respectively how our estimations depart from true values and how variable estimations are. Methodologically, we introduced a mixture of components to account for contaminating behaviors (guessing and reversal of responses) and framed the model in a hierarchical way. We found empirical support for the model by testing a group of 4th grade children in a spatial proportion estimation task. In particular, the internal density reproduced the asymmetries (skewedness) seen in this and in previous reports of estimation tasks, and the model accurately described wide variations between subjects in behavior. Bias estimates were in general smaller than by using previous approaches, due to the model's capacity to absorb contaminating behaviors. This property of the model can be of especial relevance for studies aimed at linking psychophysical measures with broader cognitive abilities. We also recovered higher levels of noise than those reported in discrimination of spatial magnitudes and discuss possible explanations for it. We conclude by illustrating a concrete application of our model to study the effects of scaling in proportional reasoning, highlighting the value of quantitative models in this field of research.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,8 +46,8 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13508
-
+  url: https://www.sciencedirect.com/science/article/pii/S0010027721002249?via%3Dihub
+  
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
