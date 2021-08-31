@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -65,8 +65,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,5 +75,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #   slides: example
 ---
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
