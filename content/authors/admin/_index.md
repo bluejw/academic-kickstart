@@ -73,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a Ph.D. candidate in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/). Before I joined Johns Hopkins, I received my bachelor's degree in Mathematics and Applied Mathematics from [Sichuan University](https://en.scu.edu.cn/). I am broadly interested in developing Bayesian methods for various statistical problems and applications, including electronic health records, dynamic treatment regimens, and precision medicine in HIV.
