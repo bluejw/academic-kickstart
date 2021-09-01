@@ -43,6 +43,9 @@ experience:
     date_end: '2020-05-31'
     description: |2-
     
+      * EN.553.602 Research and Design in Applied Mathematics 2020 Spring
+    
+    
 design:
   columns: '2'
 ---
