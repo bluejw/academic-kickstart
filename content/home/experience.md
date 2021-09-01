@@ -48,6 +48,17 @@ experience:
       * EN.553.720 Probability Theory I *2019 Fall*
       * EN.553.731 Statistical Theory II *2019 Spring, 2018 Spring*
       * EN.553.782 Statistical Uncertainty Quantification *2018 Fall*
+     
+   - title: Data Analyst Intern
+     company: Tencent
+     company_url: ''
+     # company_logo: 
+     location: Beijing, China
+     date_start: '2015-07-01'
+     date_end: '2015-08-31'
+     description: |2-
+     
+       * Refined and classified online payers and game users of WeChat accordingto their behaviors by applying statistical and machine learning methods.
     
 design:
   columns: '2'
