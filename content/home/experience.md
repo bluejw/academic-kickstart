@@ -43,7 +43,10 @@ experience:
     location: Baltimore, MD
     date_start: '2019-01-01'
     date_end: ''
-    description: Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics. Bayesian methods development for electronic health records data and application to precision medicine in HIV.
+    description: |2-
+    
+    * Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics. 
+    * Bayesian methods development for electronic health records data and application to precision medicine in HIV.
         
 design:
   columns: '2'
