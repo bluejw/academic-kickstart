@@ -44,7 +44,6 @@ experience:
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
-      Responsibilities include:
     
       * Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics. 
       * Bayesian methods development for electronic health records data and application to precision medicine in HIV.
