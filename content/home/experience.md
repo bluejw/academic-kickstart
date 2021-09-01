@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: Johns Hopkins University
     company_url: ''
-    company_logo: org-jhu
+    # company_logo: 
     location: = Baltimore, MD
     date_start: '2019'
     date_end: ''
