@@ -39,11 +39,14 @@ experience:
   - title: Research Assistant
     company: Johns Hopkins University
     company_url: ''
-    company_logo: org-jhu
-    location: Baltimore
-    date_start: '2021-01-01'
+    # company_logo: 
+    location: Baltimore, MD
+    date_start: '2019-01-01'
     date_end: ''
-    description:
+    description: |2-
+    
+    * Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics.
+    * Bayesian methods development for electronic health records data and ap-plication to precision medicine in HIV.
         
 design:
   columns: '2'
