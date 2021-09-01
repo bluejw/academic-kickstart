@@ -35,6 +35,15 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+  - title: Research Assistant
+    company: Johns Hopkins University
+    company_url: ''
+    company_logo: org-jhu
+    location: Baltimore
+    date_start: '2021-01-01'
+    date_end: ''
+    description:
         
 design:
   columns: '2'
