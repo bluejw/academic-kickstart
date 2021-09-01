@@ -33,6 +33,22 @@ experience:
     
       * Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics. 
       * Bayesian methods development for electronic health records data and application to precision medicine in HIV.  
+
+ - title: Teaching Assistant
+    company: Johns Hopkins University
+    company_url: ''
+    # company_logo: 
+    location: Baltimore, MD
+    date_start: '2018-01-01'
+    date_end: '2020-05-31'
+    description: |2-
+    
+      * EN.553.602 Research and Design in Applied Mathematics 2020 Spring
+      * EN.553.636 Introduction to Data Science 2020 Spring, 2019 Spring, 2018 Fall
+      * EN.553.720 Probability Theory I 2019 Fall
+      * EN.553.731 Statistical Theory II 2019 Spring, 2018 Spring
+      * EN.553.782 Statistical Uncertainty Quantification 2018 Fall
+
 design:
   columns: '2'
 ---
