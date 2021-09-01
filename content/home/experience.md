@@ -44,7 +44,10 @@ experience:
     description: |2-
     
       * EN.553.602 Research and Design in Applied Mathematics *2020 Spring*
-    
+      * EN.553.636 Introduction to Data Science *2020 Spring, 2019 Spring, 2018 Fall*
+      * EN.553.720 Probability Theory I *2019 Fall*
+      * EN.553.731 Statistical Theory II *2019 Spring, 2018 Spring*
+      * EN.553.782 Statistical Uncertainty Quantification *2018 Fall*
     
 design:
   columns: '2'
