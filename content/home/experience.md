@@ -36,14 +36,17 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Johns Hopkins University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-jhu
+    location: =
+    date_start: '2019'
+    date_end: ''
+    description: |2-
+    
+    * Research assistant to Professor Yanxun Xu in the Department of AppliedMathematics and Statistics.
+    * Bayesian methods development for electronic health records data and ap-plication to precision medicine in HIV.
 
 design:
   columns: '2'
