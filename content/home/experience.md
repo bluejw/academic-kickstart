@@ -58,7 +58,7 @@ experience:
     date_end: '2015-08-31'
     description: |2-
      
-      * Refined and classified online payers and game users of WeChat accordingto their behaviors by applying statistical and machine learning methods.
+      * Refined and classified online payers and game users of WeChat according to their behaviors by applying statistical and machine learning methods.
     
 design:
   columns: '2'
