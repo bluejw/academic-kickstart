@@ -22,17 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist Intern
+    company: Eli Lilly and Company
+    company_url: ''
+    # company_logo: 
+    location: Indianapolis, IN
+    date_start: '2022-05-31'
+    date_end: '2022-08-19'
+    description: |2-
+  
   - title: Research Assistant
     company: Johns Hopkins University
     company_url: ''
     # company_logo: 
     location: Baltimore, MD
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2022-12-14'
     description: |2-
-    
-      * Research assistant to Professor Yanxun Xu in the Department of Applied Mathematics and Statistics. 
-      * Bayesian methods development for electronic health records data and application to precision medicine in HIV.  
 
   - title: Teaching Assistant
     company: Johns Hopkins University
@@ -44,21 +50,10 @@ experience:
     description: |2-
     
       * EN.553.602 Research and Design in Applied Mathematics *2020 Spring*
-      * EN.553.636 Introduction to Data Science *2020 Spring, 2019 Spring, 2018 Fall*
+      * EN.553.636 Introduction to Data Science *Fall 2018, Spring 2019, Spring 2020*
       * EN.553.720 Probability Theory I *2019 Fall*
-      * EN.553.731 Statistical Theory II *2019 Spring, 2018 Spring*
+      * EN.553.731 Statistical Theory II *Spring 2018, Spring 2019*
       * EN.553.782 Statistical Uncertainty Quantification *2018 Fall*
-     
-  - title: Data Analyst Intern
-    company: Tencent
-    company_url: ''
-    # company_logo: 
-    location: Beijing, China
-    date_start: '2015-07-01'
-    date_end: '2015-08-31'
-    description: |2-
-     
-      * Refined and classified online payers and game users of WeChat according to their behaviors by applying statistical and machine learning methods.
     
 design:
   columns: '2'
