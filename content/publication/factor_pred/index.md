@@ -41,7 +41,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Frontiers in Psychology, 11, 548521.
+publication: Frontiers in Psychology, 11, 548521
 # publication_short: In *ICW*
 
 abstract: Statistical techniques used to study cognitive function in HIV typically yield normative estimates and can mask the heterogeneity in cognitive trajectories over time. We applied a novel statistical approach to identify clusters of individuals with distinct patterns of change in declarative memory in HIV-seropositive (HIV+) and HIV-seronegative (HIV−) women. 1731 women from the Women’s Interagency HIV Study, a multi-center, prospective cohort study, completed the Hopkins Verbal Learning Test-Revised (HLVT-R) at >2 visits. To derive subgroups with similar patterns of decline by HIV-serostatus, we used a mixed-effects framework that modeled the trajectory of multiple declarative memory outcomes over time, while simultaneously clustering individuals. We identified clinically meaningful subgroups of women with distinct phenotypes of declarative memory decline, which depend on race and HIV-serostatus using a data driven approach. Identification of underlying mechanisms and risk factors contributing to the observed differences are warranted. More broadly our modeling approach could be other populations to identify risk factors for accelerated cognitive decline and to personalize interventions.
