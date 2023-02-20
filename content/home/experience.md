@@ -36,7 +36,7 @@ experience:
     company_url: ''
     # company_logo: 
     location: Baltimore, MD
-    date_start: '2019-01-01'
+    date_start: '2018-09-01'
     date_end: '2022-12-14'
     description: |2-
 
