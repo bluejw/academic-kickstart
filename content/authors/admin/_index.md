@@ -6,7 +6,7 @@ title: Wei Jin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate of Applied Mathematics and Statistics
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,18 +19,18 @@ organizations:
 # Interests to show in About widget
 interests:
 - Bayesian Nonparametrics
-- Electronic Health Records
-- Precision Medicine in HIV
+- Reinforcement Learning
+- Causal Discovery
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Applied Math and Stats
     institution: Johns Hopkins University
-    year: 2018 - Present
+    year: 2018 - 2022
   - course: M.S.E in Computer Science
     institution: Johns Hopkins University
-    year: 2019 - Present
+    year: 2019 - 2021
   - course: M.S.E in Applied Math and Stats
     institution: Johns Hopkins University
     year: 2016 - 2018
@@ -76,4 +76,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/) and Professor [Peter M\"uller](https://web.ma.utexas.edu/users/pmueller/). I am broadly interested in developing Bayesian methods for various statistical problems and applications, including dynamic treatment regimes, causal discovery, and precision medicine in HIV.
+I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/) and Professor [Peter Mueller](https://web.ma.utexas.edu/users/pmueller/). I am broadly interested in developing Bayesian methods for various statistical problems and applications, including dynamic treatment regimes, reinforcement learning, causal discovery, and precision medicine in HIV.
