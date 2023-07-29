@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Electronic Journal of Statistics, 13(2), 3485-3512
+# publication: Electronic Journal of Statistics, 13(2), 3485-3512
 # publication_short: In *ICW*
 
 abstract: We systematically study the rates of contraction with respect to the integrated L2-distance for Bayesian nonparametric regression in a generic framework, and, notably, without assuming the regression function space to be uniformly bounded. The generic framework is very flexible and can be applied to a wide class of nonparametric prior models. Three non-trivial applications of the framework are provided. The finite random series regression of an α-Hölder function, with adaptive rates of contraction up to a logarithmic factor. The un-modified block prior regression of an α-Sobolev function, with adaptive-and-exact rates of contraction. The Gaussian spline regression of an α-Hölder function, with near optimal rates of contraction. These applications serve as generalization or complement of their respective results in the literature. Extensions to the fixed-design regression problem and sparse additive models in high dimensions are discussed as well.
