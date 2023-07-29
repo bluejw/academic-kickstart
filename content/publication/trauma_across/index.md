@@ -42,7 +42,7 @@ publication_types: ["2"]
 publication: Psychosomatic Medicine, 85(4), 341-350
 # publication_short: In *ICW*
 
-abstract: Sexual and physical abuse are highly prevalent among women living with HIV (WLWH) and are risk factors for the development of mental health and substance use disorders (MHDs, SUDs), and cognitive and medical comorbidities. We examined empirically derived patterns of trauma, MHD, and SUD, and associations with later cognitive and health outcomes. 
+abstract: Sexual and physical abuse are highly prevalent among women living with HIV (WLWH) and are risk factors for the development of mental health and substance use disorders (MHDs, SUDs), and cognitive and medical comorbidities. We examined empirically derived patterns of trauma, MHD, and SUD, and associations with later cognitive and health outcomes. A total of 1027 WLWH (average age = 48.6 years) in the Women’s Interagency HIV Study completed the World Mental Health Composite International Diagnostic Interview from 2010 to 2013 to identify MHDs, SUDs, and age at onset of sexual and physical abuse. Then, cognitive impairment, cardiovascular/metabolic conditions, and HIV disease outcomes were assessed for up to 8.8 years. Latent class analysis identified patterns of co-occurring trauma, MHDs, and/or SUDs. Generalized estimating equations determined associations between these patterns and midlife cognitive and medical outcomes.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
