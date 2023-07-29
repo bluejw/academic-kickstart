@@ -21,7 +21,7 @@ interests:
 - Bayesian Nonparametrics
 - Reinforcement Learning
 - Causal Discovery
-- Precision Medicin in HIV
+- Precision Medicine in HIV
 
 # Education to show in About widget
 education:
