@@ -76,4 +76,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/) and Professor [Peter Mueller](https://web.ma.utexas.edu/users/pmueller/). I am broadly interested in developing Bayesian methods for various statistical problems and applications, including electronic health records, dynamic treatment regimes, reinforcement learning, causal discovery, and precision medicine in HIV.
+I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins University, advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/). I am broadly interested in developing Bayesian methods for various statistical problems and applications, including electronic health records, dynamic treatment regimes, reinforcement learning, causal discovery, and precision medicine in HIV.
