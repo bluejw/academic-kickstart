@@ -22,7 +22,6 @@ interests:
 - Reinforcement Learning
 - Causal Discovery
 - Precision Medicin in HIV
-- Early Detection of Alzheimer’s Disease
 
 # Education to show in About widget
 education:
