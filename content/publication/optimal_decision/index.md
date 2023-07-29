@@ -47,7 +47,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/
+  url: https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/58071?confirm=ca654181
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
 
