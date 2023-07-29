@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Bayesian Nonparametrics
-- Reinforcement Learning
+- Dynamic Treatment Regimes
 - Causal Discovery
 - Precision Medicine in HIV
 
