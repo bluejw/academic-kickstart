@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Fellow
+    company: Johns Hopkins University
+    company_url: ''
+    # company_logo: 
+    location: Baltimore, MD
+    date_start: '2022-12-15'
+    date_end: 
+    description: |2-
+    
   - title: Research Scientist Intern
     company: Eli Lilly and Company
     company_url: ''
@@ -50,7 +59,7 @@ experience:
     description: |2-
     
       * EN.553.602 Research and Design in Applied Mathematics
-      * EN.553.636 Introduction to Data Science 
+      * EN.553.636 Data Mining/Introduction to Data Science 
       * EN.553.720 Probability Theory I 
       * EN.553.731 Statistical Theory II 
       * EN.553.782 Statistical Uncertainty Quantification
