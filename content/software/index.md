@@ -1,10 +1,8 @@
 ---
 title: Software
-
-authors:
-- admin
 ---
 
 - **BayTetra**
+  -- a
 
 BayTetra: A Bayesian Semiparametric Approach for Testing Trajectory Differences
