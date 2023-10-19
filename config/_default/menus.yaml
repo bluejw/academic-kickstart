@@ -20,5 +20,5 @@ main:
     url: '#contact'
     weight: 50
   - name: Software
-    url: uploads/CV.pdf
+    url: publication
     weight: 60
