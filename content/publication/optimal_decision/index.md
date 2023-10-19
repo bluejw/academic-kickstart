@@ -31,7 +31,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Annals of Applied Statistics, Accepted. **[Winner of the Conference on Advances in Bayesian and Frequentist Statistics Poster Award]**
+publication: *Annals of Applied Statistics*, In Press. **[Winner of the Conference on Advances in Bayesian and Frequentist Statistics Poster Award]**
 # publication_short: In *ICW*
 
 abstract: Numerous adverse effects (e.g., depression) have been reported for combination antiretroviral therapy (cART) despite its remarkable success in viral suppression in people with HIV (PWH). To improve long-term health outcomes for PWH, there is an urgent need to design personalized optimal cART with the lowest risk of comorbidity in the emerging field of precision medicine for HIV. Large-scale HIV studies offer researchers unprecedented opportunities to optimize personalized cART in a data-driven manner. However, the large number of possible drug combinations for cART makes the estimation of cART effects a high-dimensional combinatorial problem, imposing challenges in both statistical inference and decision-making. We develop a two-step Bayesian decision framework for optimizing sequential cART assignments. In the first step, we propose a dynamic model for individuals' longitudinal observations using a multivariate Gaussian process. In the second step, we build a probabilistic generative model for cART assignments and design an uncertainty-penalized policy optimization using the uncertainty quantification from the first step. Applying the proposed method to a dataset from the Women's Interagency HIV Study, we demonstrate its clinical utility in assisting physicians to make effective treatment decisions, serving the purpose of both viral suppression and comorbidity risk reduction.
@@ -46,8 +46,6 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: PDF
-  url: https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/58071?confirm=ca654181
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
 
