@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 50
   - name: Software
-    url: project/example
+    url: software
     weight: 60
   - name: Teaching
     url: post/getting-started
