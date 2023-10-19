@@ -23,6 +23,6 @@ main:
     url: project/example
     weight: 60
   - name: Teaching
-     url: post/getting-started
-     weight: 70
+    url: post/getting-started
+    weight: 70
   
