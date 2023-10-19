@@ -21,6 +21,7 @@ interests:
 - Bayesian Nonparametrics
 - Dynamic Treatment Regimes
 - Causal Discovery
+- Electronic Health Records
 - Precision Medicine in HIV
 
 # Education to show in About widget
