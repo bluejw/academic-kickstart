@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Code
-  url: https://github.com/bluejw/BayesPharmacogenetics
+  url: https://github.com/bluejw/BayesDCG
 
 # url_pdf: ''
 # url_code: ''
