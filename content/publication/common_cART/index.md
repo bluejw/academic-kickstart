@@ -56,9 +56,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: PDF
-#   url: https://journals.lww.com/aidsonline/abstract/9900/common_antiretroviral_combinations_are_associated.351.aspx
+links:
+- name: PDF
+  url: https://journals.lww.com/aidsonline/abstract/9900/common_antiretroviral_combinations_are_associated.351.aspx
 
 # url_pdf: ''
 # url_code: ''
