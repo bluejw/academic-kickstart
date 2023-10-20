@@ -2,9 +2,7 @@
 title: Teaching
 ---
 
-Teaching Assistant 
-
-Johns Hopkins University 
+** Teaching Assistant at Johns Hopkins University 
 
 - EN.553.602 Research and Design in Applied Mathematics
 
