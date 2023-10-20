@@ -8,7 +8,6 @@ authors:
 # - Wei Jin
 - admin
 - Yang Ni
-- Jane O’Halloran
 - Amanda B. Spence
 - Leah H. Rubin
 - Yanxun Xu
