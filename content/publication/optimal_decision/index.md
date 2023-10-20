@@ -1,5 +1,5 @@
 ---
-title: "A  Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV"
+title: "A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
