@@ -34,6 +34,7 @@ publication: Journal of Machine Learning Research, Under Revision
 # publication_short: In *ICW*
 
 abstract: We consider the problem of causal discovery from time-series observational data. We develop a novel framework that simultaneously discovers the time-lagged causality and the possibly cyclic instantaneous causality. Under common causal discovery assumptions, we prove the proposed model is generally identifiable by exploiting the instrumental information commonly available in time-series data. To the best of our knowledge, this is the first causal identification theory for directed graphs with general cyclic patterns that achieves unique causal identifiability. Structural learning is carried out in a fully Bayesian fashion. Through extensive simulations and an application to the Women's Interagency HIV Study, we demonstrate the identifiability, utility, and superiority of the proposed model against state-of-the-art alternatives for time-series causal discovery.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
