@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wei Jin’s Homepage # Website name
+title: Wei Jin # Website name
 baseurl: 'https://bluejw.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
