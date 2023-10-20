@@ -2,11 +2,13 @@
 title: Teaching
 ---
 
-## Teaching Assistant at Johns Hopkins University
+## Teaching Assistant 
+
+Johns Hopkins University
 
 - EN.553.602 Research and Design in Applied Mathematics
 
-  Spring 2020
+  [Spring 2020]
 
 - EN.553.636 Data Mining/Introduction to Data Science
 
