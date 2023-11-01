@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13508
+  url: https://doi.org/10.1111/biom.13508
 - name: arXiv
   url: https://arxiv.org/abs/2004.05487
 - name: Code
