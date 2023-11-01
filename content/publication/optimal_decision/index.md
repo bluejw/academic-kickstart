@@ -46,6 +46,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  url: https://doi.org/10.1214/23-AOAS1750
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
 
