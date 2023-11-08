@@ -48,6 +48,8 @@ featured: true
 links:
 - name: PDF
   url: https://doi.org/10.1214/23-AOAS1750
+- name: Poster
+  url: uploads/Poster.pdf
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
 
