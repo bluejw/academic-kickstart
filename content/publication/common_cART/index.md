@@ -29,7 +29,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-09-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: AIDS, In Press
+publication: AIDS, 38(2), 167-176
 # publication_short: In *ICW*
 
 abstract: While modern antiretroviral therapy (ART) is highly effective and safe, depressive symptoms have been associated with certain ART drugs. We examined the association between common ART regimens and depressive symptoms in women with HIV (WWH) with a focus on somatic vs. non-somatic symptoms. Analysis of longitudinal data from the Women's Interagency HIV Study. Participants were classified into three groups based on the frequency of positive depression screening - chronic depression, infrequent depression, and never depressed. Novel Bayesian machine learning methods building upon a subset-tree kernel approach were developed to estimate the combined effects of ART regimens on depressive symptoms in each group after covariate adjustment. The analysis included 1,538 WWH who participated in 12,924 visits. In the chronic depression group, combinations including tenofovir alafenamide and cobicistat-boosted elvitegravir and/or darunavir were associated with greater somatic symptoms of depression, whereas those combinations containing tenofovir disoproxil fumarate and efavirenz or rilpivirine were associated with less somatic depressive symptoms. ART was not associated with somatic symptoms in the infrequent depression or never depressed groups. ART regimens were not associated with non-somatic symptoms in any group. Specific ART combinations are associated with somatic depressive symptoms in WWH with chronic depression. Future studies should consider specific depressive symptoms domains as well as complete drug combinations when assessing the relationship between ART and depression.
