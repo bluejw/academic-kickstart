@@ -80,4 +80,4 @@ highlight_name: true
 
 I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at [Johns Hopkins University](https://www.jhu.edu/), advised by Professor [Yanxun Xu](https://www.ams.jhu.edu/~yxu70/). My research interests lie in developing Bayesian statistical theory and methods for a broad range of problems, including Bayesian nonparametrics, dynamic treatment regimes, reinforcement learning, causal discovery, graphical models, and longitudinal data analysis. I also conduct interdisciplinary research by developing novel Bayesian methods for various applications, including electronic health/medical record data, precision medicine in HIV, early detection of Alzheimer’s disease, and proportional reasoning in cognitive science.
 
-**[News]** 
+**[News]** 01/02/2024: Our paper *"A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV"* has been accepted by **Biostatistics**!
