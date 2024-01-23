@@ -52,6 +52,8 @@ links:
   url: uploads/Poster.pdf
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
+- name: Media
+  url: https://engineering.jhu.edu/ams/news/researchers-develop-personalized-therapy-decision-making-framework-to-optimize-hiv-treatment/
 
 # url_pdf: ''
 # url_code: ''
