@@ -85,5 +85,3 @@ I am a Postdoctoral Fellow in the [Department of Applied Mathematics and Statist
 **[News]** 01/02/2024: Our paper [A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV](https://bluejw.github.io/publication/pharmacogenetics/) has been accepted by **Biostatistics**!
 
 **[News]** 09/20/2023: Our paper [Common Antiretroviral Combinations are Associated with Somatic Depressive Symptoms in Women with HIV](https://bluejw.github.io/publication/common_cart/) has been accepted by **AIDS**!
-
-**[News]** 02/14/2023: Our paper [A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV](https://bluejw.github.io/publication/optimal_decision/) has been accepted by **Annals of Applied Statistics**!
