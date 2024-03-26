@@ -6,6 +6,7 @@ title: "Modeling Alzheimer's Disease Biomarkers' Trajectory in the Absence of a 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 # - Wei Jin
+- admin
 - Yanxun Xu
 - Zheyu Wang
 
