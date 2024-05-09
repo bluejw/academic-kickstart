@@ -49,7 +49,7 @@ links:
 - name: PDF
   url: https://doi.org/10.1214/23-AOAS1750
 - name: Poster
-  url: https://bluejw.github.io/uploads/Poster.pdf
+  url: https://bluejw.github.io/uploads/Wei Jin-Poster.pdf
 - name: Code
   url: https://github.com/bluejw/BayesOptimalTreatment
 - name: Media
