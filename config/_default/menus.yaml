@@ -16,11 +16,8 @@ main:
   - name: Teaching
     url: teaching
     weight: 40
-  - name: CV
-    url: uploads/Wei Jin-CV.pdf
-    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
   
   
