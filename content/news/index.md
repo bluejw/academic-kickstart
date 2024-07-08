@@ -4,7 +4,9 @@ title: News
 
 - July 2024
 
-  I have won the 2023 [Leonard J. Savage Dissertation Award](https://bayesian.org/project/savage-award/) in the Applied Methodology Section, sponsored by the International Society for Bayesian Analysis (ISBA)! Named in honor of Leonard J. “Jimmie” Savage, this award is given each year to an outstanding doctoral dissertation in Bayesian statistics that makes significant contributions through novel Bayesian analysis of a substantive problem with the potential to impact statistical practice in a field of application. <br>
+  I have won the 2023 [Leonard J. Savage Dissertation Award](https://bayesian.org/project/savage-award/) in the Applied Methodology Section, sponsored by the International Society for Bayesian Analysis (ISBA)! Named in honor of Leonard J. “Jimmie” Savage, this award is given each year to an outstanding doctoral dissertation in Bayesian statistics that makes significant contributions through novel Bayesian analysis of a substantive problem with the potential to impact statistical practice in a field of application.
+
+  <br>
 
 - June 2024
 
