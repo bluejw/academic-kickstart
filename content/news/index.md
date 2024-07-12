@@ -2,7 +2,7 @@
 title: News
 ---
 
-- **07/06/2024:** I have won the [Leonard J. Savage Dissertation Award](https://bayesian.org/project/savage-award/) in the Applied Methodology Section, sponsored by the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/)! Named in honor of Leonard J. “Jimmie” Savage, this award is given each year to an outstanding doctoral dissertation in Bayesian statistics that makes significant contributions through novel Bayesian analysis of a substantive problem with the potential to impact statistical practice in a field of application.
+- **07/06/2024:** I have won the [Leonard J. Savage Dissertation Award](https://bayesian.org/project/savage-award/) in the Applied Methodology Section, sponsored by the [International Society for Bayesian Analysis (ISBA)](https://bayesian.org/)! Named in honor of Leonard J. “Jimmie” Savage, this award is given each year to an outstanding doctoral dissertation in Bayesian statistics that makes significant contributions through novel Bayesian analysis of a substantive problem with the potential to impact statistical practice in a field of application. Check out [Media Coverage](https://engineering.jhu.edu/ams/news/postdoc-receives-2023-leonard-j-savage-award/) on our department website!
 
   <br>
 
