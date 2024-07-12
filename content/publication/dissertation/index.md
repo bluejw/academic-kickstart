@@ -41,6 +41,8 @@ featured: true
 links:
 - name: PDF
   url: http://jhir.library.jhu.edu/handle/1774.2/67847
+- name: Media
+  url: https://engineering.jhu.edu/ams/news/postdoc-receives-2023-leonard-j-savage-award/
 
 # url_pdf: ''
 # url_code: ''
