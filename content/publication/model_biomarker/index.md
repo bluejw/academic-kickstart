@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-03-26T00:00:00Z"
+date: "2024-09-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
+publication: Biostatistics, Submitted
 # publication_short: In *ICW*
 
 abstract: To advance our understanding of Alzheimer's Disease (AD), especially during the preclinical stage when patients' brain functions are mostly intact, recent AD research has shifted towards studying AD biomarkers across the disease continuum. A conceptual framework proposed by Jack and colleagues lays a foundation for investigating the intricate relationship between the longitudinal trajectories of AD biomarkers and the underlying AD pathophysiology. Our paper adopts this framework and develops a novel Bayesian approach to model these biomarker trajectories as non-linear functions of disease progression. A key feature of our model is the direct modeling of the underlying AD status as a latent disease process, rather than relying on clinical diagnoses as a proxy as in most existing studies. This allows for more data-driven exploration of AD progression, reducing potential biases due to inaccurate clinical diagnoses. We address the considerable heterogeneity among individuals' biomarker measurements by introducing a subject-specific latent disease trajectory as well as incorporating random intercepts to further capture the additional inter-subject differences in biomarker measurements. Furthermore, we systematically study the potential local mode issue arising from model complexity or its estimability challenge under limited sample sizes, which is often overlooked in the literature. Through simulation studies, we evaluate our model's performance and the local mode issue. Applications to the Alzheimer's Disease Neuroimaging Initiative (ADNI) study yield interpretable clinical insights, illustrating the potential of our approach in facilitating the understanding of AD biomarker evolution. 
