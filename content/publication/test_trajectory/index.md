@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-03-20T00:00:00Z"
+date: "2024-09-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
+publication: Statistics in Medicine, Under Revision
 # publication_short: In *ICW*
 
 abstract: Testing differences in longitudinal trajectories among distinct groups of population is an important task in many biomedical applications. Motivated by an application in Alzheimer’s disease, we develop BayTetra, an innovative Bayesian semiparametric approach for estimating and testing group differences in multivariate longitudinal trajectories. BayTetra jointly models multivariate longitudinal data by directly accounting for correlations among different responses, and uses a semiparametric framework based on B-splines to capture the non-linear trajectories with great flexibility. To avoid overfitting, BayTetra encourages parsimonious trajectory estimation through spike-and-slab priors on the spline coefficients. The proposed method converts the challenging task of hypothesis testing for longitudinal trajectories into a more manageable equivalent form based on hypothesis testing for spline coefficients. More importantly, by leveraging posterior inference with natural uncertainty quantification, our Bayesian method offers a more robust and straightforward hypothesis testing procedure than frequentist methods. Extensive simulations demonstrate BayTetra's superior performance over alternatives. Applications to the Biomarkers of Cognitive Decline Among Normal Individuals (BIOCARD) study yield interpretable and valuable clinical insights. A major contribution of this paper is that we have developed an R package **BayTetra**, which implements the proposed Bayesian semiparametric approach and is the first publicly available software for hypothesis testing on trajectory differences based on a flexible modeling framework.
