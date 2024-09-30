@@ -6,23 +6,29 @@ title: "HIV-AICare: A Domain Knowledge-Guided Reinforcement Learning Approach fo
 # and it will be replaced with their full name and linked to their profile.
 authors:
 # - Wei Jin
-- Luis Parra-Rodriguez
-- Jane O’halloran
-- Yuezhe Wang
+- Dapeng Yao
 - admin
-- Raha M. Dastgheyb
+- Yao Zhao
+- Luis Parra-Rodriguez
+- Jane O’Halloran
+- Raha Dastgheyb
+- Zhengling Qi
+- Yantian Ding
+- David B. Hanna
+- Andrea Norcini-Pala
 - Amanda B. Spence
-- Anjali Sharma
-- Deborah R. Gustafson
-- Joel Milam
-- Kathleen M. Weber
-- Adaora A. Adimora
-- Igho Ofotokun
+- Jennifer C. Price
+- Eran Shorer
+- Stephen J. Gange
+- Michelle Floris-Moore
+- Christina Mehta
 - Margaret A. Fischl
-- Deborah Konkle-Parker
-- Pauline M. Maki
-- Yanxun Xu
+- Aubri B. Hickman
+- Ken Ho
+- Matthew J. Mimiaga
+- Frank J. Palella
 - Leah H. Rubin
+- Yanxun Xu
 
 # Author notes (optional)
 # author_notes:
@@ -42,10 +48,10 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: AIDS, 38(2), 167-176
+publication: Nature Machine Intelligence, Submitted
 # publication_short: In *ICW*
 
-abstract: While modern antiretroviral therapy (ART) is highly effective and safe, depressive symptoms have been associated with certain ART drugs. We examined the association between common ART regimens and depressive symptoms in women with HIV (WWH) with a focus on somatic vs. non-somatic symptoms. Analysis of longitudinal data from the Women's Interagency HIV Study. Participants were classified into three groups based on the frequency of positive depression screening - chronic depression, infrequent depression, and never depressed. Novel Bayesian machine learning methods building upon a subset-tree kernel approach were developed to estimate the combined effects of ART regimens on depressive symptoms in each group after covariate adjustment. The analysis included 1,538 WWH who participated in 12,924 visits. In the chronic depression group, combinations including tenofovir alafenamide and cobicistat-boosted elvitegravir and/or darunavir were associated with greater somatic symptoms of depression, whereas those combinations containing tenofovir disoproxil fumarate and efavirenz or rilpivirine were associated with less somatic depressive symptoms. ART was not associated with somatic symptoms in the infrequent depression or never depressed groups. ART regimens were not associated with non-somatic symptoms in any group. Specific ART combinations are associated with somatic depressive symptoms in WWH with chronic depression. Future studies should consider specific depressive symptoms domains as well as complete drug combinations when assessing the relationship between ART and depression.
+abstract: Despite the success of antiretroviral therapy (ART) in achieving viral suppression in people with HIV (PWH), numerous ART-related adverse effects have been reported. Effective HIV management should prioritize viral suppression while simultaneously minimizing adverse effects, with regimens tailored to the specific characteristics of each individual. However, there is a lack of individualized approaches that leverage real-world evidence to assist with ART selection in clinical practice, particularly for treatment-experienced PWH. To address this, we developed **HIV-AICare**, a data-driven artificial intelligence (AI) tool for personalized ART selection. Leveraging reinforcement learning and clinical guidelines, **HIV-AICare** streamlines the complex process of selecting ART regimens, optimizing both treatment efficacy and long-term patient outcomes. Applied to the MACS/WIHS Combined Cohort Study data, **HIV-AICare** effectively navigates HIV treatment complexities. Its recommendations align with current clinical practice, offering tailored, guideline-compliant treatment options, highlighting the potential of a data-driven and domain knowledge-guided approach to enhance clinical decision-making. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -56,9 +62,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: PDF
-  url: https://journals.lww.com/aidsonline/abstract/9900/common_antiretroviral_combinations_are_associated.351.aspx
+# links:
 
 # url_pdf: ''
 # url_code: ''
