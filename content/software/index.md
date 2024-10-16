@@ -2,8 +2,8 @@
 title: Software
 ---
 
-- Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data
-
+- Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Longitudinal Data Using Instrumental Variables
+  
   [[Code]](https://github.com/bluejw/BayesDCG)
 
   <br>
