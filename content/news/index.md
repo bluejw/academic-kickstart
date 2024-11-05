@@ -15,7 +15,3 @@ title: News
   <br>
 
 - **01/02/2024:** Our paper [A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV](https://bluejw.github.io/publication/pharmacogenetics/) has been accepted by **Biostatistics!**
-
-  <br>
-
-- **09/20/2023:** Our paper [Common Antiretroviral Combinations are Associated with Somatic Depressive Symptoms in Women with HIV](https://bluejw.github.io/publication/common_cart/) has been accepted by **AIDS!**
