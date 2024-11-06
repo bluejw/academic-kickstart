@@ -48,7 +48,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Nature Communications, Submitted
+publication: Submitted
 # publication_short: In *ICW*
 
 abstract: Despite the success of antiretroviral therapy (ART) in achieving viral suppression in people with HIV (PWH), numerous ART-related adverse effects have been reported. Effective HIV management should prioritize viral suppression while simultaneously minimizing adverse effects, with regimens tailored to the specific characteristics of each individual. However, there is a lack of individualized approaches that leverage real-world evidence to assist with ART selection in clinical practice, particularly for treatment-experienced PWH. To address this, we developed **HIV-AICare**, a data-driven artificial intelligence (AI) tool for personalized ART selection. Leveraging reinforcement learning and clinical guidelines, **HIV-AICare** streamlines the complex process of selecting ART regimens, optimizing both treatment efficacy and long-term patient outcomes. Applied to the MACS/WIHS Combined Cohort Study data, **HIV-AICare** effectively navigates HIV treatment complexities. Its recommendations align with current clinical practice, offering tailored, guideline-compliant treatment options, highlighting the potential of a data-driven and domain knowledge-guided approach to enhance clinical decision-making. 
